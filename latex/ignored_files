@@ -1,0 +1,16 @@
+# Contains the list of extensions of disposable files
+
+log
+aux
+fls
+fdb_latexmk
+synctex.gz
+toc
+out
+bbl
+idx
+blg
+ilg
+ind
+nlo
+
